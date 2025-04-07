@@ -1,1 +1,8 @@
 #dependencies
+fastapi
+uvicorn
+torch
+transformers
+librosa
+soundfile
+numpy
