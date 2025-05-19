@@ -1,0 +1,241 @@
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+Epoch 1/10 - Training: 100%|███████████████████████████████████████████████| 1745/1745 [1:23:23<00:00,  2.87s/it]
+Epoch 1/10, Training Loss: 0.0987, Training Accuracy: 63.31%
+Epoch 1/10 - Validation:   0%|                                                           | 0/354 [00:00<?, ?it/s]/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+Epoch 1/10 - Validation: 100%|█████████████████████████████████████████████████| 354/354 [06:58<00:00,  1.18s/it]
+Epoch 1/10, Validation Loss: 0.0569, Validation Accuracy: 77.95%
+Saved best model with validation accuracy 77.95% at /Users/simranpatel/Desktop/cap_proj/code/deepfake-pythonmodel/model/wavlm_finetuned_for.pth
+Epoch 2/10 - Training:   0%|                                                            | 0/1745 [00:00<?, ?it/s]/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+Epoch 2/10 - Training: 100%|█████████████████████████████████████████████████| 1745/1745 [45:49<00:00,  1.58s/it]
+Epoch 2/10, Training Loss: 0.0799, Training Accuracy: 68.41%
+Epoch 2/10 - Validation:   0%|                                                           | 0/354 [00:00<?, ?it/s]/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+Epoch 2/10 - Validation: 100%|█████████████████████████████████████████████████| 354/354 [08:00<00:00,  1.36s/it]
+Epoch 2/10, Validation Loss: 0.0399, Validation Accuracy: 88.39%
+Saved best model with validation accuracy 88.39% at /Users/simranpatel/Desktop/cap_proj/code/deepfake-pythonmodel/model/wavlm_finetuned_for.pth
+Epoch 3/10 - Training:   0%|                                                            | 0/1745 [00:00<?, ?it/s]/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+Epoch 3/10 - Training: 100%|█████████████████████████████████████████████████| 1745/1745 [46:37<00:00,  1.60s/it]
+Epoch 3/10, Training Loss: 0.0743, Training Accuracy: 71.59%
+Epoch 3/10 - Validation:   0%|                                                           | 0/354 [00:00<?, ?it/s]/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+Epoch 3/10 - Validation: 100%|█████████████████████████████████████████████████| 354/354 [06:35<00:00,  1.12s/it]
+Epoch 3/10, Validation Loss: 0.0372, Validation Accuracy: 90.06%
+Saved best model with validation accuracy 90.06% at /Users/simranpatel/Desktop/cap_proj/code/deepfake-pythonmodel/model/wavlm_finetuned_for.pth
+Epoch 4/10 - Training:   0%|                                                            | 0/1745 [00:00<?, ?it/s]/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+Epoch 4/10 - Training: 100%|█████████████████████████████████████████████████| 1745/1745 [45:48<00:00,  1.58s/it]
+Epoch 4/10, Training Loss: 0.0700, Training Accuracy: 73.50%
+Epoch 4/10 - Validation:   0%|                                                           | 0/354 [00:00<?, ?it/s]/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+Epoch 4/10 - Validation: 100%|█████████████████████████████████████████████████| 354/354 [07:02<00:00,  1.19s/it]
+Epoch 4/10, Validation Loss: 0.0404, Validation Accuracy: 86.73%
+No improvement in validation accuracy. Patience counter: 1/3
+Epoch 5/10 - Training:   0%|                                                            | 0/1745 [00:00<?, ?it/s]/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+Epoch 5/10 - Training: 100%|█████████████████████████████████████████████████| 1745/1745 [42:23<00:00,  1.46s/it]
+Epoch 5/10, Training Loss: 0.0687, Training Accuracy: 73.76%
+Epoch 5/10 - Validation:   0%|                                                           | 0/354 [00:00<?, ?it/s]/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+Epoch 5/10 - Validation: 100%|█████████████████████████████████████████████████| 354/354 [05:54<00:00,  1.00s/it]
+Epoch 5/10, Validation Loss: 0.0334, Validation Accuracy: 91.22%
+Saved best model with validation accuracy 91.22% at /Users/simranpatel/Desktop/cap_proj/code/deepfake-pythonmodel/model/wavlm_finetuned_for.pth
+Epoch 6/10 - Training:   0%|                                                            | 0/1745 [00:00<?, ?it/s]/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+Epoch 6/10 - Training: 100%|█████████████████████████████████████████████████| 1745/1745 [44:30<00:00,  1.53s/it]
+Epoch 6/10, Training Loss: 0.0669, Training Accuracy: 75.23%
+Epoch 6/10 - Validation:   0%|                                                           | 0/354 [00:00<?, ?it/s]/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+Epoch 6/10 - Validation: 100%|█████████████████████████████████████████████████| 354/354 [05:38<00:00,  1.05it/s]
+Epoch 6/10, Validation Loss: 0.0320, Validation Accuracy: 90.98%
+No improvement in validation accuracy. Patience counter: 1/3
+Epoch 7/10 - Training:   0%|                                                            | 0/1745 [00:00<?, ?it/s]/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+Epoch 7/10 - Training: 100%|█████████████████████████████████████████████████| 1745/1745 [49:58<00:00,  1.72s/it]
+Epoch 7/10, Training Loss: 0.0667, Training Accuracy: 74.85%
+Epoch 7/10 - Validation:   0%|                                                           | 0/354 [00:00<?, ?it/s]/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+Epoch 7/10 - Validation: 100%|█████████████████████████████████████████████████| 354/354 [06:57<00:00,  1.18s/it]
+Epoch 7/10, Validation Loss: 0.0305, Validation Accuracy: 91.51%
+Saved best model with validation accuracy 91.51% at /Users/simranpatel/Desktop/cap_proj/code/deepfake-pythonmodel/model/wavlm_finetuned_for.pth
+Epoch 8/10 - Training:   0%|                                                            | 0/1745 [00:00<?, ?it/s]/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+Epoch 8/10 - Training: 100%|█████████████████████████████████████████████████| 1745/1745 [45:53<00:00,  1.58s/it]
+Epoch 8/10, Training Loss: 0.0648, Training Accuracy: 76.15%
+Epoch 8/10 - Validation:   0%|                                                           | 0/354 [00:00<?, ?it/s]/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+Epoch 8/10 - Validation: 100%|█████████████████████████████████████████████████| 354/354 [07:13<00:00,  1.22s/it]
+Epoch 8/10, Validation Loss: 0.0307, Validation Accuracy: 91.54%
+Saved best model with validation accuracy 91.54% at /Users/simranpatel/Desktop/cap_proj/code/deepfake-pythonmodel/model/wavlm_finetuned_for.pth
+Epoch 9/10 - Training:   0%|                                                            | 0/1745 [00:00<?, ?it/s]/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+Epoch 9/10 - Training: 100%|█████████████████████████████████████████████████| 1745/1745 [43:35<00:00,  1.50s/it]
+Epoch 9/10, Training Loss: 0.0644, Training Accuracy: 76.20%
+Epoch 9/10 - Validation:   0%|                                                           | 0/354 [00:00<?, ?it/s]/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+Epoch 9/10 - Validation: 100%|█████████████████████████████████████████████████| 354/354 [05:15<00:00,  1.12it/s]
+Epoch 9/10, Validation Loss: 0.0320, Validation Accuracy: 90.52%
+No improvement in validation accuracy. Patience counter: 1/3
+Epoch 10/10 - Training:   0%|                                                           | 0/1745 [00:00<?, ?it/s]/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+Epoch 10/10 - Training: 100%|████████████████████████████████████████████████| 1745/1745 [42:41<00:00,  1.47s/it]
+Epoch 10/10, Training Loss: 0.0645, Training Accuracy: 76.36%
+Epoch 10/10 - Validation:   0%|                                                          | 0/354 [00:00<?, ?it/s]/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+Epoch 10/10 - Validation: 100%|████████████████████████████████████████████████| 354/354 [05:07<00:00,  1.15it/s]
+Epoch 10/10, Validation Loss: 0.0277, Validation Accuracy: 92.64%
+Saved best model with validation accuracy 92.64% at /Users/simranpatel/Desktop/cap_proj/code/deepfake-pythonmodel/model/wavlm_finetuned_for.pth
+
+=== Loading Best Model for Evaluation ===
+
+=== Evaluating Model on Test Set ===
+Evaluating:   0%|                                                                         | 0/63 [00:00<?, ?it/s]/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:441: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+/opt/anaconda3/envs/py312/lib/python3.12/site-packages/transformers/utils/generic.py:309: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+Evaluating: 100%|████████████████████████████████████████████████████████████████| 63/63 [01:04<00:00,  1.03s/it]
+
+Model Evaluation Results (FOR Test Set):
+--------------------------------------------------
+Test Accuracy: 75.60%
+Equal Error Rate (EER): 21.01%
+
+=== Testing on Custom Audio Files ===
+
+Custom Audio Test Result:
+File: /Users/simranpatel/Downloads/Record (online-voice-recorder.com).mp3
+Prediction: Spoof
+Confidence: 60.64%
+Probabilities (Bonafide, Spoof): [[0.39356034994125366, 0.6064396500587463]]
+
+Custom Audio Test Result:
+File: /Users/simranpatel/Downloads/file1032.wav_16k.wav_norm.wav_mono.wav_silence.wav_2sec.wav
+Prediction: Bonafide
+Confidence: 56.32%
+Probabilities (Bonafide, Spoof): [[0.5631923675537109, 0.43680769205093384]]
+Error: File '/Users/simranpatel/Desktop/cap_proj/code/dataset/ASVspoof2021_LA_eval/LA_E_5656373.flac' not found. Skipping custom audio test.
+
+Total Execution Time: 33397.72 seconds (~556.63 minutes)
